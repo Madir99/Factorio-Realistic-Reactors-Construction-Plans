@@ -7,6 +7,6 @@ Safety patches: 1\
 Maximal power Production: 5.4 MW\
 Next mods need: [Thermal Solar Power by CyberWizard2261](https://mods.factorio.com/mod/CW-thermal-solar-power)\
 Warnings:\
-DON'T use fuel cells added by other mods! (Danger of reactor explosion.)\
+DON'T use fuel cells added by other mods! (Danger of reactor explosion; The exeption is Neptunium fuel cell form [Enchanted Nuclear by Enchant3d](https://mods.factorio.com/mod/EnchantedNuclear))\
 DON'T use without power consumption that IS'N half of power production! (Becouse if not the self-regulation NOT WORKING.)\
 DON'T modify power output parameters! (Danger of reactor power output degradation.)
